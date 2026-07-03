@@ -15,6 +15,9 @@ Dataset Name: Online Retail II Dataset
 Source: UCI Machine Learning Repository
 
 The dataset contains transaction records from a UK-based online retailer between 2009 and 2011.
+Due to GitHub file size limitations, the dataset is not included in this repository. It can be downloaded from the UCI Machine Learning Repository:
+
+https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
 
 ## Tools Used
 
@@ -41,8 +44,8 @@ The dataset contains transaction records from a UK-based online retailer between
 ## Files Included
 
 - EDA_Online_Retail.ipynb – Google Colab notebook containing the complete EDA.
-- EDA_Report.docx – Detailed project report.
-- online_retail_II.xlsx – Dataset used in the analysis.
+- EDA_Online_Retail_Report.docx – Detailed project report.
+- README.md
 
 ## Conclusion
 
